@@ -38,10 +38,16 @@ h2 {
 body > p, body > ul, body > section, body > h2 {
     max-width: 700px;
     margin: 20px auto;
-    padding: 0 15px;
+    padding: 20px;
+    background-color: white;
+    border-radius: 8px;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
 }
 
 footer {
     background-color: #333;
     color: white;
     text-align: center;
+    padding: 15px;
+    margin-top: 40px;
+}
